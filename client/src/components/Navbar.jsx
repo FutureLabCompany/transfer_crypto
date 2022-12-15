@@ -1,5 +1,5 @@
 import { HiMenuAlt4 } from 'react-icons/hi';
-import { AiOutliineClose } from 'react-icons/ai';
+import { AiOutlineClose } from 'react-icons/ai';
 
 import logo from '../../images/logo.png';
 
